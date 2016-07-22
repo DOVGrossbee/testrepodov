@@ -33,6 +33,7 @@ bld/
 *.vspscc
 *.vssscc
 *.xml
+*.tt
 *.XML
 *.xdt
 *.nupkg
