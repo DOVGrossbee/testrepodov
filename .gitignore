@@ -54,3 +54,4 @@ appsettings.config
 # SQL Server files
 *.mdf
 *.ldf
+*.tt
